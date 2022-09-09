@@ -1,0 +1,27 @@
+{
+  "name": "javascript30",
+  "version": "1.0.0",
+  "description": "Testing vanilla JS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kress50/JavaScript30.git"
+  },
+  "keywords": [
+    "js",
+    "vanilla",
+    "exercises"
+  ],
+  "author": "Kress50",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kress50/JavaScript30/issues"
+  },
+  "homepage": "https://github.com/Kress50/JavaScript30#readme",
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  }
+}
